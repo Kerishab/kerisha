@@ -18,6 +18,7 @@ public class G1sample {
         // TODO code application logic here
         
         System.out.println("Hello world 1 !");
+        System.out.println("Hello world 2 !");
     }
     
 }
